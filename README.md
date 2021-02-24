@@ -1,7 +1,7 @@
 # HomeInternetFilter
 Redirect users of your computer away from selected sites and instead have the user land on other sites which you prefer.
 
-#Explanation of hosts file
+# Explanation of hosts file
 How this works is TYPE IN THE WEBSITE NAME THAT **YOU WANT BYPASSED**, and type in BEFORE it 
   the IP address of the desired "go to instead of" website (look it up with dnslookup or website)
 
@@ -13,7 +13,7 @@ Editting the host file while it is in its proper location RENDERS ANY CHANGES IN
 The file needs to be changed in a different folder and THEN COPIED TO IT'S PROPER LOCATION.
 
 
-#The following would be working entries in the host file 
+# The following would be working entries in the host file 
 #Desired dst      Undesired dst 
 157.140.2.32 elithecomputerguy.com
 132.148.209.175 nerleelef.com
